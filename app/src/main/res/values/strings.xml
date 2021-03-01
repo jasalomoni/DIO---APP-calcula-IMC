@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calcula IMC</string>
+    <string name="peso_hint">Informe seu peso (ex. 65.5)</string>
+    <string name="altura_hint">Informe sua altura (ex. 1.75)</string>
+    <string name="imc_text">IMC - Índice de Massa Corpórea</string>
+    <string name="calcular">Calcular</string>
+</resources>
