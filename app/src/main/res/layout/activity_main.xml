@@ -41,7 +41,9 @@
         android:layout_marginTop="32dp"
         android:layout_marginEnd="32dp"
         android:hint="@string/peso_hint"
+        android:inputType="numberDecimal"
         android:padding="8dp"
+        android:text=" "
         android:textColor="@android:color/black"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -107,6 +109,7 @@
         android:hint="@string/altura_hint"
         android:padding="8dp"
         android:textColor="@android:color/black"
+        android:inputType="numberDecimal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/pesoEDT" />
