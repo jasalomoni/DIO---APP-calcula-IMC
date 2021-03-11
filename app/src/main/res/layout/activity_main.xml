@@ -43,7 +43,6 @@
         android:hint="@string/peso_hint"
         android:inputType="numberDecimal"
         android:padding="8dp"
-        android:text=" "
         android:textColor="@android:color/black"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
